@@ -2,8 +2,6 @@ git init
 
 create a repository on the github
 
-git status
-
 git add -A
 
 git status  
